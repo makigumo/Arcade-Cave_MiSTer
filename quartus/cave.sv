@@ -178,6 +178,8 @@ localparam CONF_STR = {
   "P2OD,Layer 2,On,Off;",
   "P2OGJ,PCB,Dangun Feveron,DoDonPachi,DonPachi,ESP Ra.De.,Puzzle Uo Poko,Guwange;",
   "-;",
+  "DIP;",
+  "-;",
   "R0,Reset;",
   "J,B0,B1,B2,Start,Coin,Pause,Service;",
   "V,v",`BUILD_DATE," - Made with love by nullobject.;"

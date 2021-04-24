@@ -52,4 +52,9 @@
   </rom>
 
   <buttons names="Shots/Laser,Spread/Laser Bomber,Full-Auto,Start,Coin,Pause,Service" default="A,B,X,R,L,Start" />
+
+  <switches>
+    <dip bits="0,1" name="Difficulty" ids="Normal,Easy,Hard,Very Hard"/>
+    <dip bits="2" name="C Button" ids="Not Used,Full-Auto"/>
+  </switches>
 </misterromdescription>
